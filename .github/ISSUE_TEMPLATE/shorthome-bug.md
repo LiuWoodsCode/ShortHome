@@ -1,6 +1,6 @@
 ---
 name: ShortHome Bug
-about: Create a report to help us improve
+about: Help us squash those pesky bugs!
 title: ShortHome Bug
 labels: ''
 assignees: ''
